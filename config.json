@@ -1,0 +1,9 @@
+{
+	"ip":"ElnoraNetwork.aternos.me",
+	"port": "51312",
+	"name": "Polo12",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register huhuhu ",
+	"login-cmd":"/login huhuhu "
+}
